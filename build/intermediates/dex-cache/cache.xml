@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\shyamsundar\AndroidStudioProjects\Caller\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\shyamsundar\AndroidStudioProjects\Caller\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-df4f291789d65bf8c7f28b7fc4e567237f5ad217.jar" />
+    </item>
+    <item
+        jar="C:\Users\shyamsundar\AndroidStudioProjects\Caller\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\shyamsundar\AndroidStudioProjects\Caller\app\build\intermediates\pre-dexed\debug\classes-c2eabde10f8ad9b3d8c21b2044f45363aea00c32.jar" />
+    </item>
+    <item
+        jar="C:\Users\shyamsundar\AndroidStudioProjects\Caller\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\shyamsundar\AndroidStudioProjects\Caller\app\build\intermediates\pre-dexed\debug\classes-2601f45609dd0f7bf4b4f28b3d0a19f1427789dc.jar" />
+    </item>
+    <item
+        jar="D:\Android\Androidsdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\shyamsundar\AndroidStudioProjects\Caller\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-964e117d817a9413702e124bee2ff452709e070a.jar" />
+    </item>
+
+</items>
